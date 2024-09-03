@@ -1,0 +1,16 @@
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+}
+h1{
+  font-family: "Playfair Display", serif;
+
+}
+
+code {
+  font-family: "Inter", sans-serif;
+}
